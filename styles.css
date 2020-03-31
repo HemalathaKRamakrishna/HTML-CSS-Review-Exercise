@@ -1,0 +1,28 @@
+#content {
+  margin: 10px;
+  padding: 10px;
+  padding-left: 1rem;
+  border: 2px;
+  border-color: black;
+}
+
+#header {
+  background-color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100vw;
+  height: 8vh;
+  padding: 10px;
+}
+
+.menu {
+  font-size: 30px;
+  color: white;
+  background-color: black;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
